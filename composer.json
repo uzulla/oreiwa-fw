@@ -1,0 +1,11 @@
+{
+    "require": {
+        "php": "^7.3",
+        "ext-mbstring": "^7.3",
+        "ext-intl": "^7.3"
+    },
+    "name": "uzulla/oreiwa-fw",
+    "description": "oreiwa fw",
+    "license": "MIT",
+    "autoload": { "files": ["src/functions.php"] }
+}
